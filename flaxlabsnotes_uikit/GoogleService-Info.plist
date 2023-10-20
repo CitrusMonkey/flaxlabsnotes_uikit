@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDhPUL_n6qg7h3hHtuyNxQrgc3RaGvD2Lk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>816242677854</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>lucasfrench.flaxlabsnotes-uikit</string>
+	<key>PROJECT_ID</key>
+	<string>flasklabsnotesapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flasklabsnotesapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:816242677854:ios:d7b9bfe9877df100257ccf</string>
+</dict>
+</plist>
